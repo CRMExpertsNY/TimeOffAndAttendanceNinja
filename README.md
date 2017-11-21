@@ -1,6 +1,8 @@
 # TimeOff And Attendance Ninja
 Do you want the ability to track the amount of time your employees take off from work? Do you want to have that information stored in CRM, and have the ability to visually report on this data? With Time Off and Attendance Ninja, you can track your employees attendance at work and look at the amount of time off they requested for various activities.
 
+<img src="https://github.com/CRMExpertsNY/TimesheetNinjaEnterprise/blob/master/Docs/suitecrm_logo_large.png?raw=true" width="200">
+
 Key Features
 ============
 
